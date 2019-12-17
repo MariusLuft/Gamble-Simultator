@@ -11,7 +11,10 @@ How to use:
   The programm runs on the console. 
   In each round it will ask you to bet either on white(w) or black(s).
   Then it will ask you if you want to continue(yes=j, no=n)
-  Menu in English: 1 play yourself
+  
+  Menu in English:   
+  
+                   1 play yourself
                    2 change balance
                    3 change bet size
                    4 quit game
